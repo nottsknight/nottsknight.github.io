@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Your Name / Site Title"
+title                    : "Ian A. Knight"
 title_separator          : "-"
 name                     : &name "Ian Knight"
 description              : &description "UoN PhD Student and Teaching Assistant"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ian A. Knight"
   avatar           : "profile.png"
-  bio              : "PhD student and TA "
+  bio              : "Computer Science PhD student and Teaching Assistant"
   location         : "Nottingham, UK"
-  employer         : "School of Computer Science, University of Nottingham"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "University of Nottingham"
+  pubmed           : 
+  googlescholar    : 
   email            : "ian.knight1@nottingham.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2937-7306"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
