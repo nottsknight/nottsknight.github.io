@@ -8,6 +8,8 @@ date: 2021-02-01
 location: "Nottingham, UK"
 ---
 
+Supporting a wide range of modules across the school.
+
 These are the modules I am helping teach this semester:
 * COMP1003 Introduction to Software Engineering
 * COMP1004 Databases and Interfaces
