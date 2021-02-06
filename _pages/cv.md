@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,15 +16,18 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* February 2021---Present: Teaching Assistant
+  * School of Computer Science, University of Nottingham
+  * Duties included: helping lead lab sessions and tutorials, supervising dissertations
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* September 2017---Present: PhD Student
+  * School of Computer Science, University of Nottingham
+  * Researching factors influencing trust in machine learning systems
+  * Supervisors: <a href="https://scholar.google.co.uk/citations?user=xUG2HKYAAAAJ&hl=en">Prof Natasa Milic-Frayling</a> (until Aug 2020), <a href="http://www.cs.nott.ac.uk/~pszmw/">Dr Max Wilson</a>
+
+* September 2016---August 2017: Chaplaincy Assistant
+ * University of Nottingham Chaplaincy
+ * Providing pastoral and spiritual support to students at UoN, focusing specifically on international students
   
 Skills
 ======
@@ -41,11 +44,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
