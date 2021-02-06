@@ -1,5 +1,5 @@
 ---
-title: "Enhancing the Searchability of Page-Image PDFDocuments Using an Aligned Hidden Layer from a TruthText"
+title: "Enhancing the Searchability of Page-Image PDF Documents Using an Aligned Hidden Layer from a Truth Text"
 collection: publication
 permalink: /publication/2016-09-13-enhancing-searchability-pdf
 excerpt: "This paper describes a project to replace an inadequate hidden textual layer of a PDF-IT file with a more accurate hidden layer produced from a 'truth text'. The alignment of the truth text with the image is guided by using OCR-provided page-image co-ordinates, for those glyphs that are correctly recognised, as a set of fixed location points between which other truth-text words can be inserted and aligned with blurred glyphs in the image."
