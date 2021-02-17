@@ -14,7 +14,7 @@ own that look like they might fit, feel free to get in touch!
 
 ## In-document visualisation of sentence clustering
 
-- Suitable for: CS, CS(AI)
+- Suitable for: CS, Data Science
 
 Text clustering is the process of grouping sections of text (e.g. sentences)
 drawn from a larger body of text (e.g. a journal article) in order to bring similar
